@@ -99,5 +99,4 @@ public class DBConnection {
 ---
 
 ## **Contributors**
-- **Your Name** - [GitHub Profile](https://github.com/Bishaljay)  
-- **Other Contributors** - [GitHub Profile](https://github.com/Krishnasah206)
+- **Bishal Jaysawal** - [GitHub Profile](https://github.com/Bishaljay)  
