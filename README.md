@@ -99,5 +99,5 @@ public class DBConnection {
 ---
 
 ## **Contributors**
-- **Your Name** - https://github.com/Bishaljay/Hospital_Management_System.git  
-- **Other Contributors** - https://github.com/Krishnasah206
+- **Your Name** - [GitHub Profile](https://github.com/Bishaljay)  
+- **Other Contributors** - [GitHub Profile](https://github.com/Krishnasah206)
