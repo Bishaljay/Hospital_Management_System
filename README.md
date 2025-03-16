@@ -96,10 +96,6 @@ public class DBConnection {
 ✅ Secure data storage with **RBAC**  
 ✅ Better appointment scheduling  
 
-## **Disadvantages**
-❌ Initial setup complexity  
-❌ Requires database maintenance  
-
 ---
 
 ## **Contributors**
